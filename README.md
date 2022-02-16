@@ -14,6 +14,7 @@ POSITIONNEMENT :
 
 
 DOCUMENTATION :
+- https://docs.microsoft.com/fr-fr/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2022
 - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/controls/?view=netframeworkdesktop-4.8
 - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0
 - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/windows/how-to-open-message-box?view=netdesktop-6.0
